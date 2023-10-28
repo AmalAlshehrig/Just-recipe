@@ -1,0 +1,22 @@
+.homepageimg{
+    text-align: center;
+}
+.homepageimg p{
+    font-size: xx-large;
+}
+.homepageimg button{
+    border-radius: 30px;
+    padding: 12px 28px;;
+    background-color: #8D3333;
+    color: white;
+    font-size: xx-large;
+    border:none;
+    width: 250px;
+}
+nav{
+    text-align: left;
+}
+.page3h1{
+    text-align: center;
+    color: #547361;
+}
